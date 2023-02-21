@@ -24,7 +24,7 @@ Riemann solvers.
 - [Le Dinh Tan](https://github.com/ledinhtan)
 
 
-## Solution Desctiption
+## Solution Description
 
 This Riemann solver is used to solve one-dimensional, inviscid flow,
 unsteady Euler equations for a shock-tube, in which two gases are
